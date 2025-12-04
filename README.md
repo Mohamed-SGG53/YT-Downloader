@@ -158,7 +158,6 @@ Built with ❤️ by [Mohamed Hisham](https://github.com/Mohamed-SGG53)
 ---
 
 **Last Updated**: 4/12/2025
-
 **Version**: 1.0.0  
 **Status**: Actively Maintained 🟢
 
