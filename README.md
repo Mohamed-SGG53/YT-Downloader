@@ -1,5 +1,5 @@
 ---
-# 🎬 YouTube Downloader GUI
+🎬 YouTube Downloader GUI
 
 **Developed by Mohamed Hisham**
 
