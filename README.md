@@ -101,6 +101,7 @@ This software is completely FREE to use. Users are allowed to:
 * GitHub Issues: Report bugs & feature requests
 
 ⭐ If you find this project useful, please give it a star on GitHub ⭐
+
 Built with ❤️ by **Mohamed Hisham**
 
 ---
