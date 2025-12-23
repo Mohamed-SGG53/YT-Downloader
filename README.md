@@ -1,7 +1,13 @@
+تمام 👍
+دي **README.md كاملة كما هي** وجاهزة للنسخ والاستخدام مباشرة (إنجليزي + عربي):
+
 ---
-🎬 YouTube Downloader GUI
+
+# 🎬 YouTube Downloader GUI
 
 **Developed by Mohamed Hisham**
+
+---
 
 ## 🎯 Features
 
@@ -32,10 +38,10 @@
 
 ## 🚀 Performance
 
-* **High Speed**: Multi-threaded downloading with aria2c integration
-* **Resume Support**: Resume interrupted downloads
-* **Batch Processing**: Efficient handling of multiple downloads
-* **Low Resource Usage**: Optimized for smooth operation
+* High Speed: Multi-threaded downloading with aria2c integration
+* Resume Support: Resume interrupted downloads
+* Batch Processing: Efficient handling of multiple downloads
+* Low Resource Usage: Optimized for smooth operation
 
 ## 📦 Installation
 
@@ -71,20 +77,11 @@ YT-Downloader/
 
 ## 🐛 Troubleshooting
 
-**Problem**: "FFmpeg not found"
-**Solution**: Ensure FFmpeg exists in `_internal/ffmpeg/`
-
-**Problem**: Download stuck at 0%
-**Solution**: Check your internet connection or try another video
-
-**Problem**: "JavaScript runtime required"
-**Solution**: Node.js is included — reinstall if missing
-
-**Problem**: Can't update the application
-**Solution**: Run as administrator or check firewall settings
-
-**Problem**: Thumbnail not embedded in audio
-**Solution**: Make sure FFmpeg has write permissions
+* FFmpeg not found: Ensure FFmpeg exists in `_internal/ffmpeg/`
+* Download stuck at 0%: Check your internet connection or try another video
+* JavaScript runtime required: Node.js is included — reinstall if missing
+* Can't update the application: Run as administrator or check firewall settings
+* Thumbnail not embedded in audio: Make sure FFmpeg has write permissions
 
 ## 📄 License
 
@@ -96,21 +93,17 @@ This software is completely FREE to use. Users are allowed to:
 
 ## 🙏 Acknowledgments
 
-* **yt-dlp** team
-* **FFmpeg**
-* **aria2**
+* yt-dlp team
+* FFmpeg
+* aria2
 * All contributors and users
 
 ## 📞 Support
 
 * GitHub Issues: Report bugs & feature requests
 
----
-
-⭐ **If you find this project useful, please give it a star on GitHub!** ⭐
+⭐ If you find this project useful, please give it a star on GitHub ⭐
 Built with ❤️ by **Mohamed Hisham**
-
----
 
 ---
 
@@ -147,10 +140,10 @@ Built with ❤️ by **Mohamed Hisham**
 
 ## 🚀 الأداء
 
-* **سرعة عالية** باستخدام التحميل متعدد الخيوط مع aria2c
-* **استكمال التحميلات** المتوقفة
-* **تحميل دفعات** بكفاءة عالية
-* **استهلاك منخفض** لموارد الجهاز
+* سرعة عالية باستخدام التحميل متعدد الخيوط مع aria2c
+* استكمال التحميلات المتوقفة
+* تحميل دفعات بكفاءة عالية
+* استهلاك منخفض لموارد الجهاز
 
 ## 📦 التشغيل
 
@@ -186,20 +179,11 @@ YT-Downloader/
 
 ## 🐛 استكشاف الأخطاء
 
-**المشكلة**: ظهور رسالة "FFmpeg not found"
-**الحل**: التأكد من وجود FFmpeg داخل `_internal/ffmpeg/`
-
-**المشكلة**: التحميل متوقف عند 0%
-**الحل**: التحقق من اتصال الإنترنت أو تجربة فيديو آخر
-
-**المشكلة**: طلب JavaScript runtime
-**الحل**: Node.js مدمج داخل البرنامج — أعد التثبيت إن لزم
-
-**المشكلة**: فشل التحديث
-**الحل**: تشغيل البرنامج كمسؤول أو فحص جدار الحماية
-
-**المشكلة**: عدم ظهور الصورة داخل ملف الصوت
-**الحل**: التأكد من صلاحيات FFmpeg
+* FFmpeg غير موجود: تأكد من وجوده داخل `_internal/ffmpeg/`
+* التحميل متوقف عند 0%: تحقق من اتصال الإنترنت أو جرّب فيديو آخر
+* طلب JavaScript runtime: Node.js مدمج داخل البرنامج
+* فشل التحديث: شغّل البرنامج كمسؤول أو افحص جدار الحماية
+* عدم ظهور الصورة داخل ملف الصوت: تأكد من صلاحيات FFmpeg
 
 ## 📄 الرخصة
 
@@ -211,18 +195,16 @@ YT-Downloader/
 
 ## 🙏 شكر وتقدير
 
-* فريق **yt-dlp**
-* **FFmpeg**
-* **aria2**
+* فريق yt-dlp
+* FFmpeg
+* aria2
 * جميع المستخدمين والداعمين
 
 ## 📞 الدعم
 
 * GitHub Issues للإبلاغ عن المشاكل وطلب المميزات
 
----
-
-⭐ **إذا أعجبك المشروع لا تنسَ دعمه بنجمة على GitHub!** ⭐
+⭐ إذا أعجبك المشروع لا تنسَ دعمه بنجمة على GitHub ⭐
 تم التطوير بكل ❤️ بواسطة **محمد هشام**
 
 ---
