@@ -11,7 +11,7 @@
 
 * Download YouTube videos in multiple qualities (144p up to 4K)
 * Audio-only download (MP3 / M4A) with embedded thumbnail
-* Supports MP4, WebM, MKV formats
+* Supports MP4 format
 * Playlist & bulk downloads
 * Automatic thumbnail embedding for video and audio files
 
@@ -32,7 +32,7 @@
 
 ### Audio Formats
 
-* MP3 (128–320 kbps) with embedded thumbnail artwork
+* MP3 (48.792 kbps) with embedded thumbnail artwork
 
 ## 🚀 Performance
 
@@ -114,7 +114,7 @@ Built with ❤️ by **Mohamed Hisham**
 
 * تحميل فيديوهات يوتيوب بجودات متعددة (من 144p حتى 4K)
 * تحميل الصوت فقط (MP3 / M4A) مع دمج الصورة المصغّرة
-* دعم صيغ MP4 و WebM و MKV
+* دعم صيغة MP4
 * تحميل قوائم التشغيل والتحميل الجماعي
 * دمج الصورة المصغّرة تلقائيًا داخل الملفات
 
@@ -135,7 +135,7 @@ Built with ❤️ by **Mohamed Hisham**
 
 ### صيغ الصوت
 
-* MP3 (من 128 إلى 320 كيلوبِت/ثانية) مع صورة مدمجة
+* MP3 (من 48.792 كيلوبِت/ثانية) مع صورة مدمجة
 
 ## 🚀 الأداء
 
